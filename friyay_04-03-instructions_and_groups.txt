@@ -1,0 +1,49 @@
+Instructions:
+Part 1: 30 min
+Work on your assigned problem. When you've got a solution, push it up to Github and notify the DiRs for review.
+
+If you finished early, work on some of the other problems. If you finish all the problems, go get yourself a treat. You've earned it.
+
+Part 2: ?? min
+A student from each group will be randomly selected to go through the problem with the class. You may not just present your finished code. You must go through solving the problem, talking OUT LOUD about your thought process and code as you go.
+
+
+Problem 1
+Jennifer
+Dustin
+Aaron
+Jamario
+
+Problem 2
+Peter
+Michael
+Victor
+Joseph
+
+Problem 3
+Patrick
+Maalik
+Karley
+Brooke
+
+Problem 4
+Ally
+Fred
+Josh   
+Paxton
+
+Problem 5
+Zach
+Bailey
+Bobby
+Frank
+
+Problem 6
+Alan
+Geordy
+Lockett
+Tchaikousky
+
+
+
+
